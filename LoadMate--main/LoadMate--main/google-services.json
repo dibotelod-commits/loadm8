@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978977325511",
+    "project_id": "loadmate-kalahari-cargo",
+    "storage_bucket": "loadmate-kalahari-cargo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978977325511:android:09df21dc789106f165d9e2",
+        "android_client_info": {
+          "package_name": "com.kalaharicargo.loadmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnVZ8cUrt1YJtV6j8xUa5FZOLnVQBSyg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven(url = "https://jitpack.io")
+    }
+}
+
+rootProject.name = "LoadMate"
+
+include(":app")
+include(":core")
+include(":feature:marketplace")
+include(":feature:tracking")
+include(":feature:payment")
+include(":feature:ai")
+include(":feature:auth")
